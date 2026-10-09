@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="divider_color">#F1F5F9</color>
+    <color name="background_page">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="status_paid_bg">#DCFCE7</color>
+    <color name="status_paid_text">#166534</color>
+    <color name="accent_primary">#2563EB</color>
+    <color name="accent_primary_dark">#1D4ED8</color>
+    <color name="discount_red">#DC2626</color>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fintech Billing</string>
+    <string name="title_main">Fintech Billing App</string>
+    <string name="subtitle_main">Simulasi Parsing JSON &amp; Faktur Digital</string>
+    <string name="btn_parse_basic">Parse JSON Merchant</string>
+    <string name="btn_open_no_voucher">Buka Faktur (Tanpa Voucher)</string>
+    <string name="btn_open_voucher">Buka Faktur (Dengan Voucher)</string>
+    <string name="header_merchant_output">Hasil Parsing Merchant:</string>
+    <string name="merchant_output_placeholder">Tekan tombol "Parse JSON Merchant" untuk melihat hasil.</string>
+    <string name="title_invoice">Faktur Digital</string>
+    <string name="label_merchant">MITRA MERCHANT</string>
+    <string name="label_customer">PENERIMA / CUSTOMER</string>
+    <string name="label_items">RINCIAN BARANG</string>
+    <string name="label_summary">RANGKUMAN BIAYA</string>
+    <string name="label_subtotal">Subtotal</string>
+    <string name="label_discount">Diskon</string>
+    <string name="label_ppn">PPN 11%</string>
+    <string name="label_service_fee">Biaya Layanan</string>
+    <string name="label_total">Total Dibayar</string>
+    <string name="no_promo_used">Tidak menggunakan promo</string>
+    <string name="payment_method_format">Metode Pembayaran: %1$s</string>
+    <string name="discount_voucher_format">Diskon Voucher %1$s (%2$d%%)</string>
+    <string name="merchant_name_format">%1$s (%2$s)</string>
+    <string name="customer_name_format">%1$s (%2$s)</string>
+    <string name="item_qty_price_format">%1$d x @ %2$s</string>
+    <string name="negative_amount_format">-%1$s</string>
+</resources>
